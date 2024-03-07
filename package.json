@@ -1,5 +1,5 @@
 {
-  "name": "multi-tieuvi7850",
+  "name": "lanha5886-nodejs-sum",
   "version": "1.0.2",
   "description": "Test",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tieuvi7850/multi-tieuvi7850.git"
+    "url": "git+https://github.com/lanha5886/lanha5886-nodejs-sum.git"
   },
   "keywords": [
     "cacl"
@@ -16,7 +16,7 @@
   "author": "lanha5886",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tieuvi7850/multi-tieuvi7850/issues"
+    "url": "https://github.com/lanha5886/lanha5886-nodejs-sum/issues"
   },
-  "homepage": "https://github.com/tieuvi7850/multi-tieuvi7850#readme"
+  "homepage": "https://github.com/lanha5886/lanha5886-nodejs-sum#readme"
 }
