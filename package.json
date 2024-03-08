@@ -1,6 +1,6 @@
 {
-  "name": "lanha5886-nodejs-sum",
-  "version": "1.0.3",
+  "name": "tinhtong2sobangjs-lanha5886",
+  "version": "1.0.4",
   "description": "Test",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lanha5886/lanha5886-nodejs-sum.git"
+    "url": "git+https://github.com/lanha5886/tinhtong2sobangjs-lanha5886.git"
   },
   "keywords": [
     "cacl"
@@ -16,7 +16,7 @@
   "author": "lanha5886",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lanha5886/lanha5886-nodejs-sum/issues"
+    "url": "https://github.com/lanha5886/tinhtong2sobangjs-lanha5886/issues"
   },
-  "homepage": "https://github.com/lanha5886/lanha5886-nodejs-sum#readme"
+  "homepage": "https://github.com/lanha5886/tinhtong2sobangjs-lanha5886#readme"
 }
